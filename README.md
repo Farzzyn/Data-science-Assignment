@@ -1,0 +1,1 @@
+This repository contains assignments completed during the Data Science course at ExcelR. The assignments cover a range of topics, from fundamental statistics to advanced machine learning techniques. Each assignment includes problem statements, datasets, and Jupyter notebooks to provide hands-on experience in solving real-world data science problems
